@@ -7,14 +7,14 @@ NOTE: Use functionality inherited from ArrayObject.
 
 **Implementation & Demo**: :link: [https://replit.com/@aranishawkat/FNTask1PHPHTML](https://replit.com/@aranishawkat/FNTask1PHPHTML)
 
-## Task 2(JS/HTML/CSS)
+## Task 2 (JS/HTML/CSS)
 Using HTML and CSS make a plain white web page that has a 100x100 pixel blue square on it. Position the square along the left side of the page, 50 pixels from the top. Using javascript animate this square so that it moves 10 pixels right and 10 pixels down per second. When the box hits or goes over an edge of the window, change the direction for the related axis.
 
 NOTE: Please use OOP JS or ES6. Please don’t use any javascript framework (e.g. jquery)
 
 **Implementation & Demo**: :link: [https://replit.com/@aranishawkat/FNTask2JSHTMLCSS](https://replit.com/@aranishawkat/FNTask2JSHTMLCSS)
 
-## Task 3(MySQL)
+## Task 3 (MySQL)
 Given the two tables below, write a SQL query that uses a join statement to list all users from the user
 table, their average correct answers, as well as the time of their most recently taken test. All user entries
 should appear, even if they have not taken a test.
